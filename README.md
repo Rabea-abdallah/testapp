@@ -1,16 +1,27 @@
 # toolinitpackage
 
-A new Flutter project.
+A new Flutter project
+# Flutter Package Automation Tool
 
-## Getting Started
+أداة تقوم بتعديل مشروع Flutter تلقائيًا:
+- دمج google_maps_flutter
+- ضبط مفاتيح Google Maps
+- تعديل Android و iOS
+- إضافة مثال خريطة Google
 
-This project is a starting point for a Flutter application.
+## الاستخدام:
+1 شغّل الأداة واتبع الملاحظات والتعليمات التي فيها 
+2. اختر مجلد مشروع Flutter حسب الشروط وذلك لعدم وضوح الطلب في داخل المهمه 
+3. أدخل مفتاح Google Maps API
 
-A few resources to get you started if this is your first Flutter project:
+أداة تقوم بتعديل مشروع Flutter تلقائيًا:
+- دمج google_maps_flutter
+- ضبط مفاتيح Google Maps
+- تعديل Android و iOS
+- إضافة مثال خريطة Google
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## الاستخدام:
+1. شغّل الأداة
+2. اختر مجلد مشروع Flutter
+3. أدخل مفتاح Google Maps API
+4. سيتم دمج الحزمة تلقائيًا مع إعداد جاهز لتشغيل الخريطة.
