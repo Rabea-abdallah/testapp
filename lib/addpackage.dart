@@ -49,7 +49,7 @@ Future<void> addGoogleMapsPackage(
   runFlutterPubGet(projectPath, mainNotifier);
   print('تمت إضافة الحزمة بنجاح');
 }
-// ---
+
 
 // 2. تنفيذ flutter pub get تلقائيًا:
 
